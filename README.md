@@ -44,6 +44,8 @@
 
 可随意使用。
 
+此 enanaBot 非彼 enanaBot 捏。
+
 ## 联系方式
 
 2603937168@qq.com
